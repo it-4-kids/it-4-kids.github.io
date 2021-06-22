@@ -28,10 +28,11 @@ ggf. jekyll serve --force_polling verwenden, wenn es Probleme beim Nachladen von
 
 #### Docker auf Windows (Powershell)
 
+Befehl zur Ausführung im Verzeichnis des Repos
+
     docker run --rm `
       --volume="${pwd}:/srv/jekyll" `
       --volume="${pwd}/vendor/bundle:/usr/local/bundle" `
       -p 4000:4000 `
       -it jekyll/jekyll:4.2.0 `
       jekyll serve --force_polling
-
