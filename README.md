@@ -20,7 +20,7 @@ https://github.com/envygeeks/jekyll-docker/blob/master/README.md
 
 #### Performance: bundle Verzeichnis mounten
 
-docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --force_polling
+    docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --force_polling
 
 #### Polling aktivieren
 
