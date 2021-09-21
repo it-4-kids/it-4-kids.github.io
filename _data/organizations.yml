@@ -134,3 +134,9 @@
   language: de
   locations:
       Hamburg:
+- organization: moinworld
+  name: moinworld
+  website: https://moinworld.de/
+  slogan: "Deine Tech Community und Non-Profit mit Programmierkursen, Events und Mentoring für Schülerinnen und Erwachsene"
+  locations:
+      Hamburg:
