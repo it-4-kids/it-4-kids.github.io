@@ -20,11 +20,31 @@
       München:
 - organization: devoxx4kids
   name: Devoxx4Kids
-  language: en
+  language: en, fr, nl, pr, cn, es, pl
   website: https://www.devoxx4kids.org/
   tutorials: https://github.com/devoxx4kids/materials
   locations:
-    - Belgium
+    - Belgium: https://www.devoxx4kids.org/belgium/
+    - Algerien: https://www.devoxx4kids.org/algerie/
+    - Brasilien: https://www.facebook.com/Devoxx4KidsBrasil/
+    - Kammerun: https://www.devoxx4kids.org/cameroun/
+    - Quebec: https://www.devoxx4kids.org/quebec/
+    - Karibik: https://www.devoxx4kids.org/caribbean/
+    - China: https://www.devoxx4kids.org/china/
+    - Grichenland: https://www.facebook.com/Devoxx4KidsGreece
+    - Indien: https://www.devoxx4kids.org/india/
+    - Mexiko: https://www.devoxx4kids.org/mexico/
+    - Niederlande: https://www.devoxx4kids.org/nederland/
+    - Pakistan: https://www.devoxx4kids.org/pakistan/
+    - Philipinen: https://www.facebook.com/jedi4kids/
+    - Polen: http://devoxx4kids.pl/
+    - Rumänien: https://www.devoxx4kids.org/romania/
+    - Süd Afrika: https://www.devoxx4kids.org/south-africa/
+    - Schweiz: http://devoxx4kids.ch/
+    - Tunesien: https://www.devoxx4kids.org/tunisia/
+    - Türkei: https://devoxx4kidstr.org/
+    - Vereinigtes Königreich: https://www.facebook.com/devoxx4kidsuk
+    - USA: https://www.devoxx4kids.org/usa/
 - organization: kids4it
   name: Kids For IT
   language: de
