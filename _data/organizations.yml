@@ -1,3 +1,4 @@
+# Organisationen/Vereine/Gruppierungen
 - organization: devoxx4kidsde
   name: Devoxx4Kids Deutschland
   language: de
@@ -12,45 +13,45 @@
     - Minecraft Modding
     - Elektronik
   locations:
-    - Karlsruhe:
-      Hamburg:
-      Wiesbaden:
-      Paderborn: https://gitlab.com/devoxx4kids-paderborn
-      Thüringen:
-      München:
+    Karlsruhe:
+    Hamburg:
+    Wiesbaden:
+    Paderborn: https://gitlab.com/devoxx4kids-paderborn
+    Thüringen:
+    München:
 - organization: devoxx4kids
   name: Devoxx4Kids
   language: en, fr, nl, pr, cn, es, pl
   website: https://www.devoxx4kids.org/
   tutorials: https://github.com/devoxx4kids/materials
   locations:
-    - Belgium: https://www.devoxx4kids.org/belgium/
-    - Algerien: https://www.devoxx4kids.org/algerie/
-    - Brasilien: https://www.facebook.com/Devoxx4KidsBrasil/
-    - Kammerun: https://www.devoxx4kids.org/cameroun/
-    - Quebec: https://www.devoxx4kids.org/quebec/
-    - Karibik: https://www.devoxx4kids.org/caribbean/
-    - China: https://www.devoxx4kids.org/china/
-    - Grichenland: https://www.facebook.com/Devoxx4KidsGreece
-    - Indien: https://www.devoxx4kids.org/india/
-    - Mexiko: https://www.devoxx4kids.org/mexico/
-    - Niederlande: https://www.devoxx4kids.org/nederland/
-    - Pakistan: https://www.devoxx4kids.org/pakistan/
-    - Philipinen: https://www.facebook.com/jedi4kids/
-    - Polen: http://devoxx4kids.pl/
-    - Rumänien: https://www.devoxx4kids.org/romania/
-    - Süd Afrika: https://www.devoxx4kids.org/south-africa/
-    - Schweiz: http://devoxx4kids.ch/
-    - Tunesien: https://www.devoxx4kids.org/tunisia/
-    - Türkei: https://devoxx4kidstr.org/
-    - Vereinigtes Königreich: https://www.facebook.com/devoxx4kidsuk
-    - USA: https://www.devoxx4kids.org/usa/
+    Belgium: https://www.devoxx4kids.org/belgium/
+    Algerien: https://www.devoxx4kids.org/algerie/
+    Brasilien: https://www.facebook.com/Devoxx4KidsBrasil/
+    Kammerun: https://www.devoxx4kids.org/cameroun/
+    Quebec: https://www.devoxx4kids.org/quebec/
+    Karibik: https://www.devoxx4kids.org/caribbean/
+    China: https://www.devoxx4kids.org/china/
+    Grichenland: https://www.facebook.com/Devoxx4KidsGreece
+    Indien: https://www.devoxx4kids.org/india/
+    Mexiko: https://www.devoxx4kids.org/mexico/
+    Niederlande: https://www.devoxx4kids.org/nederland/
+    Pakistan: https://www.devoxx4kids.org/pakistan/
+    Philipinen: https://www.facebook.com/jedi4kids/
+    Polen: http://devoxx4kids.pl/
+    Rumänien: https://www.devoxx4kids.org/romania/
+    Süd Afrika: https://www.devoxx4kids.org/south-africa/
+    Schweiz: http://devoxx4kids.ch/
+    Tunesien: https://www.devoxx4kids.org/tunisia/
+    Türkei: https://devoxx4kidstr.org/
+    Vereinigtes Königreich: https://www.facebook.com/devoxx4kidsuk
+    USA: https://www.devoxx4kids.org/usa/
 - organization: kids4it
   name: Kids For IT
   language: de
   website: https://www.kids4it.de/
   locations:
-    - Hamburg
+    Hamburg:
   slogan: "Wir wollen Euch zeigen, dass es möglich ist, kreativ mit dem Computer zu arbeiten. Deswegen haben wir Kids4IT in Hamburg gegründet. Unser Motto ist: 'Einfach mal anfangen!'"
 - organization: jugendhackt
   name: Jugend Hackt
@@ -69,48 +70,48 @@
   language: de
   website: https://hacker-school.de/
   locations:
-    - Hamburg
+    Hamburg:
   slogan: "Wir begeistern für's Programmieren"
 - organization: it4kids
   name: IT4Kids e.V.
   language: de
   website: https://www.it-for-kids.org/
   locations:
-    - Aachen
+    Aachen:
   slogan: "IT4Kids bietet spielerische digitale Bildung für die 3. bis 6. Klasse, um Logik- und Prozessdenken zu fördern. Wir begleiten Ihre Schule durch die Digitalisierung und geben allen Kindern Zugang zu digitaler Bildung."
 - organization: makeyourschool
   name: Make Your School
   language: de
   website: https://www.makeyourschool.de/
   locations:
-    - Berlin
+    Berlin:
   slogan: "Wir bringen Hackdays an Schulen"
 - organization: javaland4kids
   name: Javaland4Kids
   language: de
   website: https://www.javaland.eu/de/javaland-2019/javaland4kids/
   locations:
-    - Brühl
+    Brühl:
 - organization: bibliothekguestrow
   name: Uwe Johnson-Bibliothek
   language: de
   website: https://www.uwe-johnson-bibliothek.de/technothek.html
   locations:
-    - Güstrow
+    Güstrow: 
 - organization: codeweek
   name: Code Week
   language: de
   website: https://hamburg.codeweek.de/code-week-bundesweit
   locations:
-     - Hamburg: https://hamburg.codeweek.de/
-     - Berlin: https://berlin.codeweek.de/
-     - Bremen: https://bremen.codeweek.de/
-     - Dresden: https://dresden.codeweek.de/
-     - Kassel: https://kassel.codeweek.de/
-     - Thüringen: https://thueringen.codeweek.de/
-     - Bonn-Rhein-Sieg: https://bonn.codeweek.de/
-     - Baden-Württenberg: https://bw.codeweek.de/
-     - Leipzig: https://leipzig.codeweek.de/
+     Hamburg: https://hamburg.codeweek.de/
+     Berlin: https://berlin.codeweek.de/
+     Bremen: https://bremen.codeweek.de/
+     Dresden: https://dresden.codeweek.de/
+     Kassel: https://kassel.codeweek.de/
+     Thüringen: https://thueringen.codeweek.de/
+     Bonn-Rhein-Sieg: https://bonn.codeweek.de/
+     Baden-Württenberg: https://bw.codeweek.de/
+     Leipzig: https://leipzig.codeweek.de/
   slogen: "Die EU Code Week ist eine Breiteninitiative, die der Bevölkerung das Programmieren und digitale Kompetenzen auf spaßige und ansprechende Weise näherbringen soll."
 - organization: haba
   language: de
@@ -118,12 +119,12 @@
   website: https://digitalwerkstatt.de/
   slogan: "Die Digitalwerkstatt ist ein kreativer Bildungs- und Erfahrungsraum für Kinder und Erwachsene, Familien und Schulen, und auch Unternehmen. Im Mittelpunkt steht das spielerische Lernen und Vermitteln der digitalen Welt."
   locations:
-    - Hamburg: https://digitalwerkstatt.de/hamburg
-    - Berlin: https://digitalwerkstatt.de/berlin
-    - Frankfurt: https://digitalwerkstatt.de/frankfurt
-    - Hamm: https://digitalwerkstatt.de/hamm
-    - Leipzig: https://digitalwerkstatt.de/leipzig
-    - Lippstadt: https://digitalwerkstatt.de/lippstadt
-    - München: https://digitalwerkstatt.de/muenchen
-    - Rhein-Kreis Neuss: https://digitalwerkstatt.de/neuss
-    - Stuttgart: https://digitalwerkstatt.de/stuttgart
+    Hamburg: https://digitalwerkstatt.de/hamburg
+    Berlin: https://digitalwerkstatt.de/berlin
+    Frankfurt: https://digitalwerkstatt.de/frankfurt
+    Hamm: https://digitalwerkstatt.de/hamm
+    Leipzig: https://digitalwerkstatt.de/leipzig
+    Lippstadt: https://digitalwerkstatt.de/lippstadt
+    München: https://digitalwerkstatt.de/muenchen
+    Rhein-Kreis Neuss: https://digitalwerkstatt.de/neuss
+    Stuttgart: https://digitalwerkstatt.de/stuttgart

@@ -27,8 +27,6 @@ url: "https://it4kids.info" # the base hostname & protocol for your site, e.g. h
 twitter_username: it4kidsinfo
 github_username:  it-4-kids
 
-markdown: kramdown
-
 # Build settings
 theme: minima
 plugins:
