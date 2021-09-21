@@ -109,3 +109,18 @@
      - Baden-Württenberg: https://bw.codeweek.de/
      - Leipzig: https://leipzig.codeweek.de/
   slogen: "Die EU Code Week ist eine Breiteninitiative, die der Bevölkerung das Programmieren und digitale Kompetenzen auf spaßige und ansprechende Weise näherbringen soll."
+- organization: haba
+  language: de
+  name: HABA Digitalwerkstatt
+  website: https://digitalwerkstatt.de/
+  slogan: "Die Digitalwerkstatt ist ein kreativer Bildungs- und Erfahrungsraum für Kinder und Erwachsene, Familien und Schulen, und auch Unternehmen. Im Mittelpunkt steht das spielerische Lernen und Vermitteln der digitalen Welt."
+  locations:
+    - Hamburg: https://digitalwerkstatt.de/hamburg
+    - Berlin: https://digitalwerkstatt.de/berlin
+    - Frankfurt: https://digitalwerkstatt.de/frankfurt
+    - Hamm: https://digitalwerkstatt.de/hamm
+    - Leipzig: https://digitalwerkstatt.de/leipzig
+    - Lippstadt: https://digitalwerkstatt.de/lippstadt
+    - München: https://digitalwerkstatt.de/muenchen
+    - Rhein-Kreis Neuss: https://digitalwerkstatt.de/neuss
+    - Stuttgart: https://digitalwerkstatt.de/stuttgart
