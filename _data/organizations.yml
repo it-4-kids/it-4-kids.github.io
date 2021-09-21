@@ -95,8 +95,17 @@
   website: https://www.uwe-johnson-bibliothek.de/technothek.html
   locations:
     - Güstrow
-- organization: codeweekhh
+- organization: codeweek
   name: Code Week Hamburg
-  website: https://hamburg.codeweek.de/
+  website: https://hamburg.codeweek.de/code-week-bundesweit
   locations:
-     - Hamburg
+     - Hamburg: https://hamburg.codeweek.de/
+     - Berlin: https://berlin.codeweek.de/
+     - Bremen: https://bremen.codeweek.de/
+     - Dresden: https://dresden.codeweek.de/
+     - Kassel: https://kassel.codeweek.de/
+     - Thüringen: https://thueringen.codeweek.de/
+     - Bonn-Rhein-Sieg: https://bonn.codeweek.de/
+     - Baden-Württenberg: https://bw.codeweek.de/
+     - Leipzig: https://leipzig.codeweek.de/
+  slogen: "Die EU Code Week ist eine Breiteninitiative, die der Bevölkerung das Programmieren und digitale Kompetenzen auf spaßige und ansprechende Weise näherbringen soll."
