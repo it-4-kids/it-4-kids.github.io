@@ -36,3 +36,8 @@ Befehl zur Ausführung im Verzeichnis des Repos. `vendor/bundle` muss im Vorfeld
       -p 4000:4000 `
       -it jekyll/jekyll:4.2.0 `
       jekyll serve --force_polling
+
+
+#### Docker auf Windows (Commandshell)
+
+    docker run --rm --volume="%cd%:/srv/jekyll" --volume="%cd%/vendor/bundle:/usr/local/bundle" -p 4000:4000 -it jekyll/jekyll:4.2.0 jekyll serve --force_polling
