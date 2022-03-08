@@ -146,3 +146,15 @@
     München: https://digitalwerkstatt.de/muenchen
     Rhein-Kreis Neuss: https://digitalwerkstatt.de/neuss
     Stuttgart: https://digitalwerkstatt.de/stuttgart
+- organization: vhshh
+  name: Hamburger Volkshochschule
+  website: https://www.vhs-hamburg.de/junge-vhs-481
+  language: de
+  locations:
+      Hamburg:
+- organization: moinworld
+  name: moinworld
+  website: https://moinworld.de/
+  slogan: "Deine Tech Community und Non-Profit mit Programmierkursen, Events und Mentoring für Schülerinnen und Erwachsene"
+  locations:
+      Hamburg:
