@@ -24,6 +24,17 @@ layout: page
             </ul>
             <br/>
         {% endif %}
+        {% if org.languages != null %}
+            Sprachen:
+            <ul style="margin:5px 0px">
+                {% for lang in org.languages %}
+                    <li style="display: inline-block; zoom:1">
+                        {{ languages[lang] }}{% unless forloop.last %}, {% endunless %}
+                    </li>
+                {% endfor %}
+            </ul>
+            <br/>
+        {% endif %}
         Standorte:
         <ul style="margin:5px 0px">
             {% for location in org.locations %}
